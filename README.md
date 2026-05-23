@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+# Logistic Regression Project
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This is a mini project built as part of a Udemy course practice.
+
+The project demonstrates the implementation of Logistic Regression using Python and machine learning libraries. It includes data preprocessing, model training, and prediction steps to understand the fundamentals of classification problems.
