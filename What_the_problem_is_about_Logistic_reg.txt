@@ -1,0 +1,3 @@
+Logistic regression
+What the problem is about?
+Which of your previous customers will by a brand new beautiful SUV just created by your favorite car company?
